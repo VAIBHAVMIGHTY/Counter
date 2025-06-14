@@ -1,1 +1,1 @@
-Simple calculor app in reactjs and in tailwind
+Simple calculator app in reactjs and in tailwind
